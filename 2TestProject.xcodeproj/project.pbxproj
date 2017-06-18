@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D86FC7E01EF7469600DFD927 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86FC7DF1EF7469600DFD927 /* ViewController2.swift */; };
 		D879DB441ED51A5D009E2141 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D879DB431ED51A5D009E2141 /* AppDelegate.swift */; };
 		D879DB461ED51A5D009E2141 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D879DB451ED51A5D009E2141 /* ViewController.swift */; };
 		D879DB491ED51A5D009E2141 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D879DB471ED51A5D009E2141 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D86FC7DF1EF7469600DFD927 /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		D879DB401ED51A5D009E2141 /* 2TestProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 2TestProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D879DB431ED51A5D009E2141 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D879DB451ED51A5D009E2141 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				D879DB431ED51A5D009E2141 /* AppDelegate.swift */,
 				D879DB451ED51A5D009E2141 /* ViewController.swift */,
 				D879DB471ED51A5D009E2141 /* Main.storyboard */,
+				D86FC7DF1EF7469600DFD927 /* ViewController2.swift */,
 				D879DB4A1ED51A5D009E2141 /* Assets.xcassets */,
 				D879DB4C1ED51A5D009E2141 /* LaunchScreen.storyboard */,
 				D879DB4F1ED51A5D009E2141 /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				D879DB461ED51A5D009E2141 /* ViewController.swift in Sources */,
 				D879DB441ED51A5D009E2141 /* AppDelegate.swift in Sources */,
+				D86FC7E01EF7469600DFD927 /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,6 +301,7 @@
 				D879DB541ED51A5D009E2141 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
